@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Books
-published: true
 ---
 ## Post-Umani o Nuovi Dei?
 Clicca [QUI](https://ilmiolibro.kataweb.it/libro/saggistica/496225/post-umani-o-nuovi-dei/) per anteprima o acquisto.
