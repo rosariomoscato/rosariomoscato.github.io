@@ -1,9 +1,9 @@
-title: Rosario Moscato|Website
-description: "A Jekyll Blog Theme For Hackers"
+title: Rosario Moscato | Website
+description: "Rosario Moscato's Website"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Rosario Moscato"
+  email: rosario.moscato@outlook.com"
+  url: "https://rosariomoscato.github.io/"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "Rosario Moscato"
 year : "2020"
