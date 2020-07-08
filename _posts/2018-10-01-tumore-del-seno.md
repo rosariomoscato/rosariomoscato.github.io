@@ -1,4 +1,7 @@
 ---
-title: Hello World
+title: Diagnosi Tumore del Seno mediante SVM
+published: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+### Diagnosi Tumore del Seno mediante SVM
+
+Il **tumore del seno** è una delle principali cause di morte per le donne affette da cancro [1]. Una diagnosi precoce e corretta è essenziale nel trattamento di questa patologia. La metodologia classica di diagnosi dipende fortemente dall’esperienza del medico e dalla sua capacità di ispezione visiva. Purtroppo, sebbene estremamente preparati e professionali, gli operatori umani possono incorrere in errori quando la correttezza di una valutazione dipende così profondamente dalle osservazioni [2]. Anche analizzando i risultati di numerosi test, una diagnosi precisa può essere difficile da ottenere persino per i professionisti più esperti. Tutte queste ragioni spiegano il motivo per cui la diagnosi automatica del tumore del seno sia un ambito di ricerca estremamente sensibile e delicato.
