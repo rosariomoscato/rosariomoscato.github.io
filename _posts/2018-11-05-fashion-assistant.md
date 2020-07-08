@@ -22,4 +22,7 @@ Adottando un layout classico del tipo Convoluzione-Pooling-Flatten-Dense si evid
 
 ![Matrice di Confusione del modello adoperato]({{site.baseurl}}/img/Fashion-Assistant-4.png)
 
+![Report Riassuntivo Metriche]({{site.baseurl}}/img/Fashion-Assistant-5.png)
+
+
 
