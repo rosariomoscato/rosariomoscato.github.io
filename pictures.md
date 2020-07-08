@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Pictures
-published: true
 ---
 Papa Francesco
 ![Papa Francesco]({{site.baseurl}}/img/pics/Papa-Francesco.jpg)
