@@ -1,6 +1,6 @@
 ---
 title: Churn Modelling mediante Artificial Neural Network
-published: false
+published: true
 ---
 
 Un problema tipico è prevedere se un dato cliente abbandonerà un servizio (per esempio chiudendo il suo conto-corrente presso una banca o cessando il suo abbonamento a un e-commerce) oppure, al contrario, continuerà a utilizzarlo.
@@ -42,4 +42,3 @@ A questo punto, immettendo dei valori nuovi, dunque non contenuti nel dataset in
 Come si vede tale valore è 83.8%, quindi molto vicino a quello calcolato semplicemente poco fa, anche la sua deviazione standard è assolutamente accettabile valendo 1.88%.
 
 Un’ analisi di tipo Grid Search ci permetterà, in ultimo, di determinare la migliore configurazione degli iper-parametri. Il risultato di tale ricerca ha portato a una best accuracy pari a 85.3% ottenuta con batch_size pari a 25, numero di epochs pari a 500 e Adam optimizer.
-
