@@ -24,5 +24,14 @@ Adottando un layout classico del tipo Convoluzione-Pooling-Flatten-Dense si evid
 
 ![Report Riassuntivo Metriche]({{site.baseurl}}/img/Fashion-Assistant-5.png)
 
+Come si vede la maggiore accuratezza viene ottenuta per le classi 1 e 5 (99%),  8 (98%) e 9 (97%) mentre le classi 6, 4 e 0 ottengono i punteggi più bassi (75%, 86% e 87%).
+
+Tali risultati sono attribuibili al fatto che mentre pantaloni, sandali, borse e stivali sono facilmente individuabili e distinguibili, camicie, cappotti e t-shirt potrebbero essere scambiati o confusi con altri capi di abbigliamento (per esempio le camicie con i cappotti e i pullover con le camicie)
+
+![Le 10 Classi del Dataset Fashion-MNIST]({{site.baseurl}}/img/Fashion-Assistant-6.png)
+
+Tale lavoro costituisce semplicemente un esempio di come le nuove tecnologie potrebbero essere utilizzate per il supporto e il potenziamento delle analisi di market e delle campagne pubblicitarie nel settore della moda.
+
+L’utilizzo di Data Set più estesi, come per esempio il [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) contenente ben 800000 immagini suddivise in 50 categorie, potrebbe portare risultati estremamente interessanti e produttivi.
 
 
