@@ -22,7 +22,7 @@ Ebbene, un modello di Machine Learning basato su SVM e addestrato mediante tale 
 
 L’immagine seguente illustra schematicamente la tecnica di diagnosi assistita dal Machine Learning appena esposta. 
 
-![Tumore del seno (immagine)]({{site.baseurl}}/_posts/tumore_seno.png)
+![Tumore del seno (immagine)]({{site.baseurl}}/img/tumore_seno.png)
 
 - [1] I. Christoyianni, E. Dermatas, and G. Kokkinakis, “Fast detection of masses in computer-aided mammography,” IEEE Signal Processing Magazine, vol. 17, no. 1, pp. 54–64, 2000.
 - [2] N. Salim, Medical Diagnosis Using Neural Network, Faculty of Information Technology University.
