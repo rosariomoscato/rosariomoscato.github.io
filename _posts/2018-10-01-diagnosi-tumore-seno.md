@@ -14,7 +14,7 @@ Tecniche di classificazione come la Regressione Logistica o La Macchina a Vettor
 
 In modo particolare, la **SVM**, basata sull’individuazione dell’iperpiano ottimale di separazione tra le classi (benigno o maligno) mediante la mappatura dei dati di ingresso in uno spazio delle caratteristiche (features) multidimensionale, ha il vantaggio di una fase di addestramento relativamente veloce anche in presenza di un ampio Data Set di dati di input [8-9].
 
-Lo studio pubblicato dalla Hindawi Publishing Corporation nel settembre del 2014 [10] illustra dettagliatamente i risultati ottenuti dal Machine Learning applicato al Breast Cancer Wisconsin (Diagnostic) Data Set [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)], un insieme di 569 casi di tumore distribuiti in 357 benigni e 212 maligni.
+Lo studio pubblicato dalla Hindawi Publishing Corporation nel settembre del 2014 [10] illustra dettagliatamente i risultati ottenuti dal Machine Learning applicato al [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)), un insieme di 569 casi di tumore distribuiti in 357 benigni e 212 maligni.
 
 Ogni caso è costituito da un ID number, una diagnosi (B = benigno, M = maligno) e 30 caratteristiche (features). Le caratteristiche sono state estratte dalle immagini digitalizzate mediante tecnica FNA (Fine Needle Aspirate) applicata a una massa tumorale presente al seno.
 
