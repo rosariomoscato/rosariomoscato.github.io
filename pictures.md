@@ -8,4 +8,4 @@ Papa Francesco
 Conferenza AI - 2019 - Ateneo Pontificio Regina Apostolorum
 ![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.231.jpeg)
 
-![APRA]({{site.baseurl}}//WhatsApp-Image-2019-11-30-at-08.59.202.jpeg)
+![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.202.jpeg)
