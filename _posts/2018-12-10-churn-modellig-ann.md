@@ -1,3 +1,7 @@
+---
+title: Churn Modelling mediante Artificial Neural Network
+published: false
+---
 
 Un problema tipico è prevedere se un dato cliente abbandonerà un servizio (per esempio chiudendo il suo conto-corrente presso una banca o cessando il suo abbonamento a un e-commerce) oppure, al contrario, continuerà a utilizzarlo.
 
