@@ -1,6 +1,6 @@
 ---
 title: Fashion Assistant
-published: false
+published: true
 ---
 Il valore dell’industria mondiale della moda è elevatissimo, qualcosa come il 2% dell’intero PIL del globo. Negli ultimi anni, a causa dell’affermarsi di nuove tecnologie come la Computer Vision, il Machine Learning e il Deep Learning, il modo  di fare moda e di pianificarne e prevederne gli sviluppi e le tendenze sta cambiando drasticamente.
 
