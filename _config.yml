@@ -1,11 +1,11 @@
 # Site settings
 title: Rosario Moscato | Website
 description: "Rosario Moscato's Personal Website"
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://rosariomoscato.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Rosario Moscato"
+  email: "rosario.moscato@outlook.com"
+  url: "https://rosariomoscato.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
