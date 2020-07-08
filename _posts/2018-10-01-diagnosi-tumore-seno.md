@@ -1,124 +1,34 @@
 ---
-title: Sample Page
+title: Diagnosi Tumore del Seno mediante SVM
 published: true
 ---
+Il **tumore del seno** è una delle principali cause di morte per le donne affette da cancro [1]. Una diagnosi precoce e corretta è essenziale nel trattamento di questa patologia. La metodologia classica di diagnosi dipende fortemente dall’esperienza del medico e dalla sua capacità di ispezione visiva. Purtroppo, sebbene estremamente preparati e professionali, gli operatori umani possono incorrere in errori quando la correttezza di una valutazione dipende così profondamente dalle osservazioni [2]. Anche analizzando i risultati di numerosi test, una diagnosi precisa può essere difficile da ottenere persino per i professionisti più esperti. Tutte queste ragioni spiegano il motivo per cui la diagnosi automatica del tumore del seno sia un ambito di ricerca estremamente sensibile e delicato.
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+I tool di diagnosi computerizzata sono nati e pensati per **aiutare e supportare** i medici al fine di incrementare l’accuratezza delle diagnosi stesse [3-5].
 
-[Link to another page](another-page).
+Già nel 2001 una ricerca ha dimostrato come il Machine Learning e le Reti Neurali riescano ad accrescere sensibilmente l’accuratezza delle diagnosi. I risultati riportati nel lavoro di Brause [6] mostrano come il clinico con maggiore esperienza riesca a diagnosticare il tumore al seno con un’accuratezza del 79.97% mentre tale valore raggiunge il 91,1% quando la fase di diagnosi viene supportata dall’aiuto dell’Intelligenza Artificiale. I progressi raggiunti dal 2001 ad oggi hanno fatto salire ulteriormente tale percentuale portandola al 96%-97%.
 
-There should be whitespace between paragraphs.
+I tumori del seno possono essere benigni o maligni e purtroppo, sebbene molti di essi siano diagnosticati durante la fase iniziale, circa il 20% di questi ultimi conduce le donne affette da tale patologia alla morte [7]. Un ausilio al lavoro dei medici che incrementa cosi tanto l’accuratezza  delle diagnosi può davvero fare la differenza.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Tecniche di classificazione come la Regressione Logistica o La Macchina a Vettori di Supporto (SVM) si rivelano estremamente utili.
 
-# [](#header-1)Header 1
+In modo particolare, la **SVM**, basata sull’individuazione dell’iperpiano ottimale di separazione tra le classi (benigno o maligno) mediante la mappatura dei dati di ingresso in uno spazio delle caratteristiche (features) multidimensionale, ha il vantaggio di una fase di addestramento relativamente veloce anche in presenza di un ampio Data Set di dati di input [8-9].
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Lo studio pubblicato dalla Hindawi Publishing Corporation nel settembre del 2014 [10] illustra dettagliatamente i risultati ottenuti dal Machine Learning applicato al Breast Cancer Wisconsin (Diagnostic) Data Set [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)], un insieme di 569 casi di tumore distribuiti in 357 benigni e 212 maligni.
 
-## [](#header-2)Header 2
+Ogni caso è costituito da un ID number, una diagnosi (B = benigno, M = maligno) e 30 caratteristiche (features). Le caratteristiche sono state estratte dalle immagini digitalizzate mediante tecnica FNA (Fine Needle Aspirate) applicata a una massa tumorale presente al seno.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Ebbene, un modello di Machine Learning basato su SVM e addestrato mediante tale Data Set riesce  a diagnosticare la classe del tumore con accuratezza che si attesta fino al **97.47**%.
 
-### [](#header-3)Header 3
+![Tumore del seno (immagine)]({{site.baseurl}}/img/tumore_seno.png)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [1] I. Christoyianni, E. Dermatas, and G. Kokkinakis, “Fast detection of masses in computer-aided mammography,” IEEE Signal Processing Magazine, vol. 17, no. 1, pp. 54–64, 2000.
+- [2] N. Salim, Medical Diagnosis Using Neural Network, Faculty of Information Technology University, 2013.
+- [3] A. Tartar, N. Kilic, and A. Akan, “Classification of pulmonary nodules by using hybrid features,” Computational and Mathematical Methods in Medicine, vol. 2013, Article ID 148363, 11 pages, 2013.
+- [4] N. Kilic, O. N. Ucan, and O. Osman, “Colonic polyp detection in CT colonography with fuzzy rule based 3D template matching”, Journal of Medical Systems, vol. 33, no. 1, pp. 9–18, 2009.
+- [5] A. Mert, N. Kiliç, and A. Akan, “Evaluation of bagging ensemble method with time-domain feature extraction for diagnosing of arrhythmia beats,” Neural Computing and Applications, vol. 24, no. 2, pp. 317–326, 2014.
+- [6] R. W. Brause, “Medical analysis and diagnosis by neural networks,” in Proceedings of the 2nd International Symposium on Medical Data Analysis (ISMDA ’01), pp. 1–13, Madrid, Spain, October 2001.
+- [7] T. S. Subashini, V. Ramalingam, and S. Palanivel, “Breast mass classification based on cytological patterns using RBFNN and SVM,” Expert Systems with Applications, vol. 36, no. 3, pp. 5284–5290, 2009.
+- [8] M. F. Akay, “Support vector machines combined with feature selection for breast cancer diagnosis,” Expert Systems with Applications, vol. 36, no. 2, pp. 3240–3247, 2009.
+- [9] B. Wang, H. Huang, and X. Wang, “A support vector machine based MSM model for financial short-term volatility forecasting,” Neural Computing and Applications, vol. 22, no. 1, pp. 21–28, 2013.
+- [10] A. Mert, N. KjlJç, E. Bilgili, A. Akan, “Breast Cancer Detection with Reduced Feature Set”, 2014, Hindawi Publishing Corporation 
