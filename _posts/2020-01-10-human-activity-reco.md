@@ -2,7 +2,7 @@
 title: Human Activity Recognition Using Smartphones
 published: true
 ---
-## A New Post
+![Human activity reco]({{site.baseurl}}/img/smartphone.jpg)
 
 E’ possibile determinare cosa stiamo facendo partendo dai dati prodotti dal nostro smartphone?
 
