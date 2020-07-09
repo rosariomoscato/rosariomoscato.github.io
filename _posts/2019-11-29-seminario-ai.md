@@ -1,4 +1,5 @@
 ---
+title: Seminario “Introduzione all’Intelligenza Artificiale”
 published: false
 ---
 ## A New Post
