@@ -19,3 +19,6 @@ Corso AI online - 2019
 
 Prof. Ishiguro - 2018
 ![Prof Ishiguro - 2018]({{site.baseurl}}/img/pics/Hiroshi-Ishiguro.jpg)
+
+Unno Technology - Shanghai - 2016
+![Unno Technology]({{site.baseurl}}/img/pics/Apertura-UNNO-Set-2016-1.jpg)
