@@ -14,3 +14,6 @@ Conferenza AI - 2019 - Ateneo Pontificio Regina Apostolorum
 
 Corso AI online - 2019
 ![Corso AI online - 2019]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.22.jpeg)
+
+Prof. Ishiguro - 2018
+![Prof Ishiguro - 2018]({{site.baseurl}}/img/pics/Hiroshi-Ishiguro.jpeg)
