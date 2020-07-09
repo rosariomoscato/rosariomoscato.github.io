@@ -26,7 +26,7 @@ Unno Technology - Shanghai - 2016
 CES - Las Vegas - 2016
 ![CES]({{site.baseurl}}/img/pics/CES-Las-Vegas-2016.jpg)
 
-Mr. Guo (Coolpad) - Shenzhen - 2014
+Mr. Guo Deying (Coolpad) - Shenzhen - 2014
 ![Shenzhen]({{site.baseurl}}/img/pics/Coolpad-8.8.2014-Mr-Guo.jpg)
 
 Mr. Hou Weigui (ZTE) - 2008
