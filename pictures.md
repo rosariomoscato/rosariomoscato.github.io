@@ -22,3 +22,6 @@ Prof. Ishiguro - 2018
 
 Unno Technology - Shanghai - 2016
 ![Unno Technology]({{site.baseurl}}/img/pics/Apertura-UNNO-Set-2016-1.jpg)
+
+CES - Las Vegas - 2016
+![CES]({{site.baseurl}}/img/pics/CES-Las-Vegas-2016.jpg)
