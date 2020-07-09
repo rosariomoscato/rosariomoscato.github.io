@@ -1,5 +1,5 @@
 ---
-title: Le sfide dell’intelligenza artificiale: una lettura interdisciplinare
+title: Le sfide Intelligenza Artificiale
 published: false
 ---
 ## A New Post
