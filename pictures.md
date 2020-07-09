@@ -8,12 +8,14 @@ Papa Francesco
 Conferenza AI - 2019 - Ateneo Pontificio Regina Apostolorum
 ![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.231.jpeg)
 
-![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.202.jpeg)
+Prof. Carrara
+![Prof. Carrara]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.202.jpeg)
 
-![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.19.jpeg)
+Lezione in aula
+![Lezione in aula]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.19.jpeg)
 
 Corso AI online - 2019
 ![Corso AI online - 2019]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.22.jpeg)
 
 Prof. Ishiguro - 2018
-![Prof Ishiguro - 2018]({{site.baseurl}}/img/pics/Hiroshi-Ishiguro.jpeg)
+![Prof Ishiguro - 2018]({{site.baseurl}}/img/pics/Hiroshi-Ishiguro.jpg)
