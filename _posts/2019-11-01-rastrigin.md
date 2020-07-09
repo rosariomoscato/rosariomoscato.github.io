@@ -1,4 +1,5 @@
 ---
+title: Minimum of Rastrigin Function by Particle Swarm Optimization
 published: false
 ---
 ## A New Post
