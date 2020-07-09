@@ -1,4 +1,5 @@
 ---
+title: Human Activity Recognition Using Smartphones
 published: false
 ---
 ## A New Post
