@@ -1,5 +1,5 @@
 ---
-title: Le sfide Intelligenza Artificiale
+title: Le sfide Intelligenza Artificiale (Video)
 published: true
 ---
 ### Le sfide dell’intelligenza artificiale: una lettura interdisciplinare
