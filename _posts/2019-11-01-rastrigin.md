@@ -1,7 +1,7 @@
 ---
 title: Minimum of Rastrigin Function by Particle Swarm Optimization
-published: false
+published: true
 ---
-## A New Post
+Brief notebook addressing the **Rastrigin function of two variables minimum problem** by a **Particle Swarm Optimization** implementation using the python library DEAP (Distributed Evolutionary Algorithms in Python) with a Swarm of 100 Particles and 1000 Generations.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[Here](https://github.com/rosariomoscato/rosariomoscato.github.io/blob/master/img/Rastrigin.pdf "Rastrigin") the Article
