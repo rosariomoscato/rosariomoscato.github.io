@@ -28,3 +28,6 @@ CES - Las Vegas - 2016
 
 Mr. Guo (Coolpad) - Shenzhen - 2014
 ![Shenzhen]({{site.baseurl}}/img/pics/Coolpad-8.8.2014-Mr-Guo.jpg)
+
+Mr. Hou Weigui (ZTE) - 2008
+![ZTE]({{site.baseurl}}/img/pics/ZTE-Founder-Hou-Weigui.jpg)
