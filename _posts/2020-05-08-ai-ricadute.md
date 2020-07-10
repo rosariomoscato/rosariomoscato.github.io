@@ -1,5 +1,5 @@
 ---
-title: INTELLIGENZA ARTIFICIALE RICADUTE SUL PROCESSO
+title: Intelligenza Artificiale Ricadute sul Processo (evento)
 published: true
 ---
 Interessantissimo evento presso la Fonzazione Forense di Monza.
