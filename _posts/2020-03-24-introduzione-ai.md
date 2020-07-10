@@ -1,4 +1,5 @@
 ---
+title: Introduzione all'Intelligenza Artificiale (Evento)
 published: false
 ---
 ## A New Post
