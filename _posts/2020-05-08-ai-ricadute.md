@@ -1,4 +1,5 @@
 ---
+title: INTELLIGENZA ARTIFICIALE RICADUTE SUL PROCESSO
 published: false
 ---
 ## A New Post
