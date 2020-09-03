@@ -9,6 +9,8 @@ Semplice Tool autoprodotto che, utilizzando una **Rete Neurale Convoluzionale** 
   <source src="https://github.com/rosariomoscato/rosariomoscato.github.io/blob/gh-pages/img/Covid19-Detect-Short.mp4" type="video/mp4">
 </video>
 
+![](https://github.com/rosariomoscato/rosariomoscato.github.io/blob/gh-pages/img/Covid19-Detect-Short.mp4)
+
 ### Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
 **Please don't take the diagnosis outcome seriously and NEVER consider it valid!!!**
