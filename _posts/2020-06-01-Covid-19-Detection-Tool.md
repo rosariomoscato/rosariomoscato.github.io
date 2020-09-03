@@ -3,7 +3,7 @@ title: Covid-19 Detection from Chest X-Ray (Tool)
 published: true
 ---
 
-## Simple Tool for Covid-19 Detection from Chest X-Ray
+## A simple Tool for Covid-19 Detection from Chest X-Ray
 
 ## Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
