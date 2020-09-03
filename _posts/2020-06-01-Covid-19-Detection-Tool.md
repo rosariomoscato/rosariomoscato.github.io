@@ -5,11 +5,11 @@ published: true
 
 ## A simple Tool for Covid-19 Detection from Chest X-Ray
 
-## Disclaimer
+### Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
 **Please don't take the diagnosis outcome seriously and NEVER consider it valid!!!**
 
-## Info
+### Info
 This Tool gets inspiration from the following works:
 * [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 * [Fighting Corona Virus with Artificial Intelligence & Deep Learning](https://www.youtube.com/watch?v=_bDHOwASVS4)
