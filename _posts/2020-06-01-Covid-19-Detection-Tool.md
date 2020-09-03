@@ -5,6 +5,8 @@ published: true
 
 ## A simple Tool for Covid-19 Detection from Chest X-Ray
 
+Semplice Tool che utilizzando una **Rete Neurale Convoluzionale** (composta da circa 5 milioni di parametri) addestrata con un dataset composto da 206 radiografie di pazienti affetti da Covid-19 e 206 radiografie di persone sane effettua la classificazione di nuove radiografie al fine di verificare la presenza di Covid.
+
 ### Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
 **Please don't take the diagnosis outcome seriously and NEVER consider it valid!!!**
