@@ -6,10 +6,10 @@ published: true
 Semplice Tool autoprodotto che, utilizzando una **Rete Neurale Convoluzionale** (composta da circa 5 milioni di parametri) addestrata con un dataset composto da 206 radiografie di pazienti affetti da Covid-19 e 206 radiografie di persone sane, effettua la classificazione di nuove radiografie al fine di verificare la presenza di Covid.
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/rosariomoscato/rosariomoscato.github.io/blob/gh-pages/img/Covid19-Detect-Short.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1ybeIfYyrNZ3W440u2zNBk8sfnzJ4jin2/view?usp=sharing" type="video/mp4">
 </video>
 
-![](https://github.com/rosariomoscato/rosariomoscato.github.io/blob/gh-pages/img/Covid19-Detect-Short.mp4)
+![](https://drive.google.com/file/d/1ybeIfYyrNZ3W440u2zNBk8sfnzJ4jin2/view?usp=sharing)
 
 ### Disclaimer
 **This Tool is just a DEMO about Artificial Neural Networks so there is no clinical value in its diagnosis and the author is not a Doctor!**
