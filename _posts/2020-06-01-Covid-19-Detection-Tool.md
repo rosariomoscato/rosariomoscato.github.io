@@ -3,8 +3,6 @@ title: Covid-19 Detection from Chest X-Ray (Tool)
 published: true
 ---
 
-## A simple Tool for Covid-19 Detection from Chest X-Ray
-
 Semplice Tool che utilizzando una **Rete Neurale Convoluzionale** (composta da circa 5 milioni di parametri) addestrata con un dataset composto da 206 radiografie di pazienti affetti da Covid-19 e 206 radiografie di persone sane effettua la classificazione di nuove radiografie al fine di verificare la presenza di Covid.
 
 ### Disclaimer
