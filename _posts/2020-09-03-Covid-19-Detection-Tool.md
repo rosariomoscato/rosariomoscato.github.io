@@ -1,6 +1,6 @@
 ---
 title: Covid-19 Detection from Chest X-Ray (Tool)
-published: false
+published: true
 ---
 # Covid19_Detector
 ### Simple Tool for Covid-19 Detection from Chest X-Ray
