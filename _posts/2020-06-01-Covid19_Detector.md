@@ -1,6 +1,6 @@
 ---
 title: Covid-19 Detection from Chest X-Ray (Tool)
-published: false
+published: true
 ---
 # Covid19_Detector
 ### Simple Tool for Covid-19 Detection from Chest X-Ray
@@ -25,4 +25,3 @@ We are aware the model is suffering of some limitations:
 * a fine tuning activity is strongly suggested
 
 Anybody has interest in this project can drop me an email ([rosario.moscato@outlook.com](mailto:rosario.moscato@outlook.com)) and I'll be very happy to reply and help.
-
