@@ -9,6 +9,6 @@ Caso d'uso: magazzino in cui un muletto automatico deve prelevare un oggetto nel
 
 Per dimostrare l'efficacia dell'algoritmo è stato realizzato un semplicissimo tool "a riga di comando" all'interno del quale ci viene chiesto di selezionare un percorso semplice o con punto intermedio e in cui ci viene mostrata la mappa dell'ambiente in cui muoverci.
 
-[Qui una DEMO del Tool](https://drive.google.com/file/d/1eUVQYJvKwX5IWcsW9EU3w8Dmtx7NW18g/view?usp=sharing)
+[Qui una DEMO del Tool](https://drive.google.com/file/d/15D9aJnFNb1sbse5qbik_5ApNUiS2tmcA/view?usp=sharing)
 
 Come sempre, contattarmi per maggiori informazioni o per il codice.
