@@ -17,3 +17,6 @@ Autore   di   due   libri   (“Post-Umani   o   Nuovi   Dei?”   -   Paruzzo  
 - [github](https://github.com/rosariomoscato "github")
 - [kaggle](https://www.kaggle.com/rosariomos "kaggle")
 
+### Prenota un meeting:
+- [calendar](https://calendar.x.ai/rosariomoscato "calendar")
+
