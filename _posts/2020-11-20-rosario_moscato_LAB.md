@@ -1,6 +1,6 @@
 ---
 title: Rosario Moscato LAB (Nuovo Canale Youtube)
-published: false
+published: true
 ---
 Finalmente nasce "Rosario Moscato LAB", nuovo canale Youtube con tutorial teorici e pratici dedicati interamente al mondo dell'Intelligenza Artificiale.
 Machine e Deep Learning, Supervised e Unsupervised AI, Natural Language Processing, Web Apps, CLI Apps, APIs, Packages, Feature Engineering and Selection,
