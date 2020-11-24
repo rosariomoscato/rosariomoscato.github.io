@@ -1,5 +1,5 @@
 ---
-title: Rosario Moscato LAB (Nuovo Canale Youtube)
+title: Rosario Moscato LAB (Nuovo Canale YouTube)
 published: true
 ---
 Finalmente nasce "Rosario Moscato LAB", nuovo canale YouTube con tutorial teorici e pratici dedicati interamente al mondo dell'Intelligenza Artificiale.
