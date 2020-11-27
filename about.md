@@ -12,10 +12,11 @@ Negli ultimi anni il suo interesse si è esclusivamente concentrato sull’**Int
 Autore   di   due   libri   (“Post-Umani   o   Nuovi   Dei?”   -   Paruzzo   Editore   -   2019,   “Robocrazia”   -autoprodotto - 2007) è relatore, anche su invito, presso centri di ricerca e conferenze internazionali,formatore e consulente  tecnico/scientifico riguardo l’enorme e mutevole mondo della AI.
 
 ### Contatti:
-- [email](mailto:rosario.moscato@outlook.com "email")
+- [YouTube](https://www.youtube.com/channel/UCDn-FahQNJQOekLrOcR7-7Q "YouTube")
 - [linkedin](https://www.linkedin.com/in/rosariomoscato/ "linkedin")
 - [github](https://github.com/rosariomoscato "github")
 - [kaggle](https://www.kaggle.com/rosariomos "kaggle")
+- [email](mailto:rosariomoscatolab@gmail.com "email")
 
 ### Prenota un meeting:
 - [calendar](https://calendar.x.ai/rosariomoscato "calendar")
