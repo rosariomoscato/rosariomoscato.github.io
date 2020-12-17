@@ -2,9 +2,9 @@
 title: Web Applications from Scratch with Streamlit (Nuovo Corso Udemy)
 published: false
 ---
-Nuovissimo corso intitolato **"Web Applications from Scatch con Streamlit"** per diventare una super-cintura nera di STREAMLIT e pubblicare le tue Web App gratis sul Cloud (Servizio Streamlit Share)
+Nuovissimo corso intitolato **"Web Applications from Scratch con Streamlit"** per diventare una super-cintura nera di STREAMLIT e pubblicare le tue Web App gratis sul Cloud (Servizio Streamlit Share)
 
-Brand New Course **"Web Applications from Scatch with Streamlit"** to became hero from zero in STREAMLIT and publish your Web Apps (for free) on the Cloud (Streamlit SHare Service)
+Brand New Course **"Web Applications from Scratch with Streamlit"** to became hero from zero in STREAMLIT and publish your Web Apps (for free) on the Cloud (Streamlit SHare Service)
 
 Disponibile on line al link seguente/available on line at the following link:
 
