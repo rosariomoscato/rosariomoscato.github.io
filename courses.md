@@ -3,7 +3,8 @@ layout: page
 title: Courses
 ---
 ## Web Applications from Scratch with Streamlit
-[Link to Udemy](https://www.udemy.com/course/web-app-from-scratch-with-streamlit/?referralCode=43AEE09132D5280DB57A) per anteprima o acquisto.
+
+**Preview or Purchase** on [Udemy](https://www.udemy.com/course/web-app-from-scratch-with-streamlit/?referralCode=43AEE09132D5280DB57A)
 
 ### Course Description
 
