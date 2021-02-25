@@ -1,6 +1,6 @@
 ---
 title: PyGame from Scratch (Nuovo Corso Udemy)
-published: false
+published: true
 ---
 Nuovissimo corso intitolato **"PyGame from Scratch"** per diventare una super-cintura nera di PYGAME e realizzare i tuoi videogames!
 
