@@ -1,6 +1,8 @@
 ---
-title: Introduction to Artificial Intelligence Ethics and Safety - Part1 (YouTube Video)
-published: false
+title: >-
+  Introduction to Artificial Intelligence Ethics and Safety - Part1 (YouTube
+  Video)
+published: true
 ---
 First part of Introduction to Artificial Intelligence Ethics and Safety.
 Let's start exploring what is AI Ethics and why it is so important.
