@@ -1,8 +1,6 @@
 ---
-title: >-
-  Introduction to Blockchain (YouTube
-  Video)
-published: false
+title: Introduction to Blockchain (YouTube Video)
+published: true
 ---
 A simple introduction to Blockchain technology (no math, no formulas, no hard concepts).
 
