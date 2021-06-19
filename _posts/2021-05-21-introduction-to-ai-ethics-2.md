@@ -1,6 +1,6 @@
 ---
 title: >-
-  Introduction to Artificial Intelligence Ethics and Safety - Part1 (YouTube
+  Introduction to Artificial Intelligence Ethics and Safety - Part2 (YouTube
   Video)
 published: true
 ---
