@@ -2,7 +2,7 @@
 title: >-
   Introduction to Blockchain (YouTube
   Video)
-published: true
+published: false
 ---
 A simple introduction to Blockchain technology (no math, no formulas, no hard concepts).
 
