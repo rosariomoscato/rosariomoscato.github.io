@@ -1,6 +1,6 @@
 ---
 title: Time Series Free Course
-published: false
+published: true
 ---
 A complete and FREE course on TIME SERIES. Theory and hands-on.
 An overview of the most important and useful concepts and models: ARMA, ARIMA, Prophet, etc.
