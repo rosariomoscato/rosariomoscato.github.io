@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Courses
+published: true
 ---
 ## Web Applications from Scratch with Streamlit
 
