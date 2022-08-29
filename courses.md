@@ -22,6 +22,7 @@ Once our Web Apps are completed and Tested we publish them online using Streamli
 As First BONUS Lesson a CRASH COURSE about Streamlit basic features.
 
 As Second BONUS Lesson a COURSE about Python Coding Environment Setup.
+![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/webapp.jpg)
 
 ## Prototyping with GRADIO
 
@@ -43,7 +44,7 @@ Once our Interfaces and DEMOs are completed and tested we publish them online us
 
 No installations required at all on your machine, we are doing everything online with Google Colab and Huggingface Spaces (for sure if you want you can use you local Jupyter Notebook installation).
 
-![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/gradio.jpg)
+![Prototyping with Gradio]({{site.baseurl}}/img/gradio.jpg)
 
 
 ## PyGame from Scratch
