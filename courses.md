@@ -42,7 +42,8 @@ Once our Interfaces and DEMOs are completed and tested we publish them online us
 
 No installations required at all on your machine, we are doing everything online with Google Colab and Huggingface Spaces (for sure if you want you can use you local Jupyter Notebook installation).
 
-![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/webapp.jpg)
+![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/gradio.jpg)
+
 
 ## PyGame from Scratch
 
