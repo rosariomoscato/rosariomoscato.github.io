@@ -22,6 +22,7 @@ Once our Web Apps are completed and Tested we publish them online using Streamli
 As First BONUS Lesson a CRASH COURSE about Streamlit basic features.
 
 As Second BONUS Lesson a COURSE about Python Coding Environment Setup.
+
 ![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/webapp.jpg)
 
 ## Prototyping with GRADIO
