@@ -8,4 +8,4 @@ Brand New Course **"Prototyping with Gradio"** to became hero from zero in STREA
 
 Disponibile on line al link seguente/available on line at the following link:
 
-[Web Applications from Scratch with Streamlit]([https://www.udemy.com/course/prototyping-with-gradio/?referralCode=F7A951C3B9324D8D9] "Prototyping with Gradio")
+[Prototyping with Gradio](https://www.udemy.com/course/prototyping-with-gradio/?referralCode=F7A951C3B9324D8D9 "Prototyping with Gradio")
