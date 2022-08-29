@@ -1,6 +1,6 @@
 ---
 title: Prototyping with Gradio (Nuovo Corso Udemy)
-published: false
+published: true
 ---
 Nuovissimo corso intitolato **"Prototyping with Gradio"** per diventare una super-cintura nera di GRADIO e pubblicare le tue Web App gratis sul Cloud (Servizio Hugging Face)
 
