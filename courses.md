@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Courses
+published: true
 ---
 ## Web Applications from Scratch with Streamlit
 
@@ -22,7 +23,28 @@ As First BONUS Lesson a CRASH COURSE about Streamlit basic features.
 
 As Second BONUS Lesson a COURSE about Python Coding Environment Setup.
 
-![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/webapp.jpg)
+## Prototyping with GRADIO
+
+**Preview or Purchase** on [Udemy](https://www.udemy.com/course/prototyping-with-gradio/?referralCode=F7A951C3B9324D8D9)
+
+### Course Description
+
+Let's build-up and deploy DEMOs of your Machine Learning Models together from SCRATCH!
+
+Sometimes the best way to learn is not study tons of pages but start doing things together with experts. In this course you are invited to seat together with me coding and making DEMOs step-by-step, instruction after instruction.
+
+Building-up and Deploying simple and more advanced DEMOS of your Machine Leaning Models from Scratch using GRADIO is the best way to acquire all the SKILLS needed to create any kind of web Interface as complex and as big as you want. With this approach you will move from zero to hero in a real blink of an eye!
+
+In these videos we see how to build up a simple Interface and a simple related DEMO leveraging the incredible framework named GRADIO.
+
+In the Advanced Part we learn how to give Login and Authentication features to our DEMOs and how to manage the API to use our Machine Leaning Models with a simple POST call.
+
+Once our Interfaces and DEMOs are completed and tested we publish them online using Huggingface Spaces.
+
+No installations required at all on your machine, we are doing everything online with Google Colab and Huggingface Spaces (for sure if you want you can use you local Jupyter Notebook installation).
+
+![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/gradio.jpg)
+
 
 ## PyGame from Scratch
 
