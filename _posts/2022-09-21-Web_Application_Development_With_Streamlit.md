@@ -4,7 +4,7 @@ published: false
 ---
 Nuovissimo libro intitolato **"Web Application Development With Streamlit"** per diventare una super-cintura nera di STREAMLIT e creare le tue Web App a livello stremamemnte professionale.
 
-Brand New Course **"Web Application Development With Streamlit"** to became hero from zero in STREAMLIT and create real production-level Web Apps.
+Brand New Book **"Web Application Development With Streamlit"** to became hero from zero in STREAMLIT and create real production-level Web Apps.
 
 Disponibile on line al link seguente/available on line at the following link:
 
