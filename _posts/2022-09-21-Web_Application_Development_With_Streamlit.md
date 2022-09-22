@@ -1,6 +1,6 @@
 ---
 title: Web Application Development With Streamlit (Nuovo Libro Apress)
-published: false
+published: true
 ---
 Nuovissimo libro intitolato **"Web Application Development With Streamlit"** per diventare una super-cintura nera di STREAMLIT e creare le tue Web App a livello estremamemnte professionale.
 
