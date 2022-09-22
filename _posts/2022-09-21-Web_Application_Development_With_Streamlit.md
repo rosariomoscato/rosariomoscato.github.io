@@ -12,6 +12,6 @@ Disponibile on line al link seguente/available on line at the following link:
 
 Authors:  Mohammad Khorasani, Mohamed Abdou, Javier Hernandez Fernandez
 
-Technical Review by: Rosario Moscato, Randy Zwitch
+Technical Review by: **Rosario Moscato**, Randy Zwitch
 
 Editor: Apress
