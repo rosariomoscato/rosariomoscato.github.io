@@ -1,6 +1,6 @@
 ---
 title: NLP Foundations (Nuovo Corso Udemy)
-published: false
+published: true
 ---
 Nuovissimo corso intitolato **"NLP Foundations"** per diventare una super-cintura nera di Natural Language Processing!
 
