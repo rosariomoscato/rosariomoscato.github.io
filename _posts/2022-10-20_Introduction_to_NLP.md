@@ -6,4 +6,4 @@ New course about **Natural Language Processing** with 3 universities: **Universi
 This course in a very accurate introduction to all main concepts of NLP and AI Ethics with a very valuable hands-on part.
 
 Here the link to enroll:
-[Introduction to Natural Language Processing]("https://powerlearning.anahuaconline.com/course/nlp")
+[Introduction to Natural Language Processing](https://powerlearning.anahuaconline.com/course/nlp)
