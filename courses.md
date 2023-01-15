@@ -5,7 +5,7 @@ published: true
 ---
 ## Introduction to NLP
 
-**Preview or Purchase** on [Udemy](https://powerlearning.anahuaconline.com/course/nlp)
+**Preview or Purchase** on [Anahuac Online](https://powerlearning.anahuaconline.com/course/nlp)
 
 ### Course Description
 
