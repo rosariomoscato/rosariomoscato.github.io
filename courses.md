@@ -9,7 +9,7 @@ published: true
 
 ### Course Description
 
-Develop your **NLP skills**
+Develop your **NLP skills**!
 Natural Language processing is an extremely complex field of the Artificial Intelligence. In this microcourse we set the basics of this fascinating discipline by giving you the main concepts about this topic to develop skills to make machines can understand what we say and more.
 
 **Università Europea di Roma**, **Universidad Francisco de Vitoria** and **Anahuac Online** in collaboration with **Google** are proposing one of the best introductory courses to the wonderful world of **Natural Language Processing**.
