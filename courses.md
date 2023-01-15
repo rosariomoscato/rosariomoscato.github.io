@@ -3,6 +3,33 @@ layout: page
 title: Courses
 published: true
 ---
+## NLP Foundations
+
+**Preview or Purchase** on [Udemy](https://www.udemy.com/course/nlp-foundations/?referralCode=6489F8EB533372D259F6)
+
+### Course Description
+
+Let's understand NLP and get all fundamental skills from SCRATCH!
+
+In this course you are invited to learn all the fundamental skills required in any kind of activity related to the Natural Language Processing and 
+you will learn them from a theoretical and practical point of view, in fact you will seat together with me coding and implementing 
+any topic step-by-step, instruction after instruction.
+Moreover we are going to create from zero three extremely interesting projects: 
+
++ Text Classification
++ Sentiment Analysis
++ Summarization
+
+Any of these projects will be a real and working use case so you will be able to re-use them in your own apps.
+In few words, this course is a real journey inside Natural Language Processing starting from the very beginning and finishing with the idea that all modern systems are leveraging: word embeddings.
+We are exploring NLU, NLG, NLP History, applications and use cases, studing Tokenization, Stopwords, Stemming, Lemmatization, PoS, NER, BoW, TF-IDF and Embeddings.
+
+Beside all this large content we are keeping an eye even on the AI Ethics because from very strong power always derives a strong responsibility too.
+
+At the end of the videos and hands-on parts you will be ready to continue by yourself facing any kind of challenge in the fashinating NLP world!
+
+![NLP Foundations]({{site.baseurl}}/img/NLPFoundations.png)
+
 ## Web Applications from Scratch with Streamlit
 
 **Preview or Purchase** on [Udemy](https://www.udemy.com/course/web-app-from-scratch-with-streamlit/?referralCode=43AEE09132D5280DB57A)
