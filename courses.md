@@ -28,7 +28,7 @@ Beside all this large content we are keeping an eye even on the AI Ethics becau
 
 At the end of the videos and hands-on parts you will be ready to continue by yourself facing any kind of challenge in the fashinating NLP world!
 
-![NLP Foundations]({{site.baseurl}}/img/webapp.jpg)
+![NLP Foundations]({{site.baseurl}}/img/NLPFoundations.png)
 
 ## Web Applications from Scratch with Streamlit
 
