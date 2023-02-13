@@ -3,6 +3,8 @@ title: Time Series Wizard (Tool)
 published: false
 ---
 
+![image](./streamlit_prophet/references/logo.png)
+
 A nice tool to make predictions from Time Series.
 It is based on **prophet** library and can manage seasonality, holidays and predictors.
 It is possible to configure a lot of hyperparameters, to create a lot of dynamic plotting and to make an error analysis.
