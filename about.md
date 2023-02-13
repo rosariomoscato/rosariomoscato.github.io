@@ -17,4 +17,5 @@ Autore   di   due   libri   (“Post-Umani   o   Nuovi   Dei?”   -   Paruzzo  
 - [github](https://github.com/rosariomoscato "github")
 - [email](mailto:rosariomoscatolab@gmail.com "email")
 
-
+### My Bio and CV (in English)
+-[Digital CV](https://rosariomoscatocv.streamlit.app/)
