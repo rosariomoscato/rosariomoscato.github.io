@@ -1,6 +1,6 @@
 ---
 title: Classification Wizard (Tool)
-published: false
+published: true
 ---
 
 ![image](./img/Class_logo.png)
