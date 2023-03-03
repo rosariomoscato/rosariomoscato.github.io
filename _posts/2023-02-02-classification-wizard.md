@@ -3,7 +3,7 @@ title: Classification Wizard (Tool)
 published: false
 ---
 
-![image](./img/class_logo.png)
+![image](./img/Class_logo.png)
 
 A nice classification tool, simply drag and drop your data and you'll get your results. No coding required! Just run it and open the website!
 
