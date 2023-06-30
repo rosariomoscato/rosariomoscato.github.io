@@ -1,6 +1,6 @@
 ---
 title: Time Series Wizard (Tool)
-published: false
+published: true
 ---
 
 ![image](./img/time_series_wizard.png)
@@ -13,4 +13,3 @@ There is a very useful link to save the results (forecasts, datasets and plottin
 To OPEN **Time Series Wizard** click here: 
 
 [![Streamlit APP](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rosariomoscato-time-series-wizard.streamlit.app/)
-
