@@ -5,7 +5,7 @@ title: Books
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
-Clicca [QUI](https://www.amazon.it/POST-UMANI-NUOVI-DEI-Piccola-possibile/dp/B0CMY2859J/ref=sr_1_2?qid=1700919349&refinements=p_27%3ARosario+Moscato&s=books&sr=1-2) per anteprima o acquisto.
+Clicca [QUI](https://amzn.eu/d/6ASoJPH) per anteprima o acquisto.
 
 I nuovi sviluppi tecnologici potrebbero stravolgere completamente la nostra stessa essenza umana, trasformandoci in qualcosa di completamente diverso e nuovo.
 
@@ -19,9 +19,18 @@ In questo volumetto snello ma denso di argomenti e concetti attualissimi, che sp
 
 
 ## Robocrazia
-Clicca [QUI](https://ilmiolibro.kataweb.it/libro/fantascienza/490399/robocrazia-5/) per anteprima o acquisto.
-
-Un futuro non troppo lontano. Uomini dall’umanità spesso azzerata e macchine al vertice di una nuova società. Oppressione e rivolta, vita, morte e rinascita nell’eterno divenire delle cose. Una descrizione snella e lucida di quello che potrebbe aspettarci tra qualche anno. Un mondo iper-tecnologico dove l’uomo non è più al centro dell’equilibrio sociale ma insegue e molto spesso combatte le creature che da lui fatalmente si sono affrancate: i robot. Questo e non solo è Robocrazia, il primo avvincente episodio di un affresco sul futuro dell’umanità.
-
 ![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.png)
+
+Clicca [QUI](https://amzn.eu/d/63rUSH8) per anteprima o acquisto.
+
+Un futuro non troppo lontano.
+Uomini dall'umanità spesso azzerata e macchine al vertice di una nuova società.
+Oppressione e rivolta, vita, morte e rinascita nell'eterno divenire delle cose.
+
+Un mondo iper-tecnologico dove l'uomo non è più al centro dell'equilibrio sociale ma insegue e molto spesso combatte le creature che da lui fatalmente si sono affrancate: i robot.
+
+Una narrazione snella e lucida, un romanzo che prova a descrivere gli anni che ci aspettano.
+
+Questo e non solo è Robocrazia, il primo avvincente episodio di un affresco sul futuro dell'umanità.
+
 
