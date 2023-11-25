@@ -15,7 +15,7 @@ Cosa ne sarà del nostro rapporto con la natura. Continueremo a farne parte o ne
 
 In questo volumetto snello ma denso di argomenti e concetti attualissimi, che spesso precorrono i tempi, ci interroghiamo su come sarà il nostro futuro tra non molti anni e soprattutto come potrebbe diventare l'uomo, provando a considerare le implicazioni pratiche, etiche, religiose e gli effetti che i cambiamenti potrebbero avere sulla vita e la morte stessa.
 
-![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.png)
+![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
 
 ## Robocrazia
