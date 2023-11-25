@@ -11,7 +11,7 @@ Negli ultimi anni il suo interesse si è esclusivamente concentrato sull’**Int
 
 Autore   di   due   libri   (**Post-Umani   e   Nuovi   Dei** e **Robocrazia**) è relatore, anche su invito, presso centri di ricerca e conferenze internazionali,formatore e consulente  tecnico/scientifico riguardo l’enorme e mutevole mondo della AI.
 
-Attualmente ricopre il ruolo di **CTO** presso Live Tech, una delle società di AI da più tempo attive in Italia, e di coordinator del **Gruppo di Neurobioetica e Intelligenza Artificiale** presso l'Ateneo Pontificio Regina Apostolorum. 
+Attualmente ricopre il ruolo di **CTO** presso Live Tech, una delle società di AI da più tempo attive in Italia, e di coordinatore del **Gruppo di Neurobioetica e Intelligenza Artificiale** presso l'Ateneo Pontificio Regina Apostolorum. 
 
 ### Contatti:
 - [linkedin](https://www.linkedin.com/in/rosariomoscato/ "linkedin")
