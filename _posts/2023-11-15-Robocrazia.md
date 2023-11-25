@@ -1,5 +1,5 @@
 ---
-title: Robocrazia: Episodio 1
+title: Robocrazia
 published: true
 ---
 
