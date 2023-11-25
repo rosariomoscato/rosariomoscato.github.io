@@ -19,7 +19,7 @@ In questo volumetto snello ma denso di argomenti e concetti attualissimi, che sp
 
 
 ## Robocrazia
-![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.png)
+![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.jpg)
 
 Clicca [QUI](https://amzn.eu/d/63rUSH8) per anteprima o acquisto.
 
