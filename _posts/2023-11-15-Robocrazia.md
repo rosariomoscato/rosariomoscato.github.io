@@ -1,12 +1,15 @@
 ---
-title: Robocrazia
+title: Robocrazia(Romanzo)
 published: true
 ---
 
 ![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.jpg)
 
 Il mio primo romanzo **Robocrazia: Episodio 1** è da oggi disponibile su Amazon in tre edizioni: copertina rigida, copertina morbida ed ebook.
+
 Clicca [QUI](https://amzn.eu/d/63rUSH8) per anteprima o acquisto.
+
+La trama in breve...
 
 Un futuro non troppo lontano.
 Uomini dall'umanità spesso azzerata e macchine al vertice di una nuova società.
