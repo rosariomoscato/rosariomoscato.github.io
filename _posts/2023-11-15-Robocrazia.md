@@ -1,5 +1,5 @@
 ---
-title: Robocrazia(Romanzo)
+title: Robocrazia (Romanzo)
 published: true
 ---
 
