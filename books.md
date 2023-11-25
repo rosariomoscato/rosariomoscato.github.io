@@ -2,10 +2,18 @@
 layout: page
 title: Books
 ---
-## Post-Umani o Nuovi Dei?
-Clicca [QUI](https://ilmiolibro.kataweb.it/libro/saggistica/496225/post-umani-o-nuovi-dei/) per anteprima o acquisto.
+## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
+Clicca [QUI](https://www.amazon.it/POST-UMANI-NUOVI-DEI-Piccola-possibile/dp/B0CMY2859J/ref=sr_1_2?qid=1700919349&refinements=p_27%3ARosario+Moscato&s=books&sr=1-2) per anteprima o acquisto.
 
-Prendendo in rapida rassegna le nuove frontiere di scienza e tecnologia come Intelligenza Artificiale, Upload del Cervello, Crioconservazione, Allungamento della Vita, Potenziamento delle Capacità Fisiche e Mentali, Robot, Cyborg, proviamo a immaginare insieme come sarà il nostro futuro tra non molti anni e soprattutto cosa potrebbe diventare l’Uomo. Le implicazioni sociali, economiche, morali ed etiche sono sterminate e vanno a toccare il concetto di umanità nella sua essenza più profonda fino a condizionare e rivedere il rapporto con Dio.
+I nuovi sviluppi tecnologici potrebbero stravolgere completamente la nostra stessa essenza umana, trasformandoci in qualcosa di completamente diverso e nuovo.
+
+Siamo sicuri che tra qualche decennio potremmo ancora essere considerati "esseri umani" a tutti gli effetti?
+
+Il percorso che abbiamo intrapreso è sicuro e privo di pericoli oppure potrebbe portarci conseguenze drammaticamente disastrose?
+
+Cosa ne sarà del nostro rapporto con la natura. Continueremo a farne parte o ne diventeremo un "oggetto estraneo"?
+
+In questo volumetto snello ma denso di argomenti e concetti attualissimi, che spesso precorrono i tempi, ci interroghiamo su come sarà il nostro futuro tra non molti anni e soprattutto come potrebbe diventare l'uomo, provando a considerare le implicazioni pratiche, etiche, religiose e gli effetti che i cambiamenti potrebbero avere sulla vita e la morte stessa.
 
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.png)
 
