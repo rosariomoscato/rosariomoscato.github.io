@@ -3,6 +3,8 @@ layout: page
 title: Books
 ---
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
+![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
+
 Clicca [QUI](https://www.amazon.it/POST-UMANI-NUOVI-DEI-Piccola-possibile/dp/B0CMY2859J/ref=sr_1_2?qid=1700919349&refinements=p_27%3ARosario+Moscato&s=books&sr=1-2) per anteprima o acquisto.
 
 I nuovi sviluppi tecnologici potrebbero stravolgere completamente la nostra stessa essenza umana, trasformandoci in qualcosa di completamente diverso e nuovo.
@@ -14,8 +16,6 @@ Il percorso che abbiamo intrapreso è sicuro e privo di pericoli oppure potrebbe
 Cosa ne sarà del nostro rapporto con la natura. Continueremo a farne parte o ne diventeremo un "oggetto estraneo"?
 
 In questo volumetto snello ma denso di argomenti e concetti attualissimi, che spesso precorrono i tempi, ci interroghiamo su come sarà il nostro futuro tra non molti anni e soprattutto come potrebbe diventare l'uomo, provando a considerare le implicazioni pratiche, etiche, religiose e gli effetti che i cambiamenti potrebbero avere sulla vita e la morte stessa.
-
-![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
 
 ## Robocrazia
