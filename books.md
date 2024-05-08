@@ -18,7 +18,7 @@ file uploading, and much more. The book concludes by delving into the implementa
 By the end of this book, you'll have transformed into a proficient developer, equipped with advanced skills for handling databases, 
 implementing secure login processes, managing session states, creating multipage applications, and seamlessly deploying them on the cloud.
 
-
+---
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
@@ -34,7 +34,7 @@ Cosa ne sarà del nostro rapporto con la natura. Continueremo a farne parte o ne
 
 In questo volumetto snello ma denso di argomenti e concetti attualissimi, che spesso precorrono i tempi, ci interroghiamo su come sarà il nostro futuro tra non molti anni e soprattutto come potrebbe diventare l'uomo, provando a considerare le implicazioni pratiche, etiche, religiose e gli effetti che i cambiamenti potrebbero avere sulla vita e la morte stessa.
 
-
+---
 ## Robocrazia
 ![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.jpg)
 
