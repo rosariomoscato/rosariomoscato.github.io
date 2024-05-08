@@ -3,7 +3,7 @@ title: Web App Development Made Simple with Streamlit (Tech)
 published: true
 ---
 
-![Robocrazia]({{site.baseurl}}/img/Robocrazia_Copertina.jpg)
+![Robocrazia]({{site.baseurl}}/img/web_development.jpg)
 
 Il manuale definitivo (in inglese) per **Streamlit** è da oggi disponibile su Amazon!
 
