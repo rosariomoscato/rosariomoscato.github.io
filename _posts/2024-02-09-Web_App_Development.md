@@ -9,6 +9,8 @@ Il manuale definitivo (in inglese) per **Streamlit** è da oggi disponibile su A
 
 Clicca [QUI](https://amzn.eu/d/6rSufF6) per anteprima o acquisto.
 
+---
+
 **Packt** Editore, di seguito i contenuti:
 
 This book is a comprehensive guide to the Streamlit open-source Python library and simplifying the process of creating web applications. 
