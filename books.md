@@ -2,6 +2,26 @@
 layout: page
 title: Books
 ---
+## Web App Development Made Simple with Streamlit: A web developer's guide to effortless web app development, deployment, and scalability
+![Post Umani o Nuovi Dei]({{site.baseurl}}/img/web_development.jpg)
+
+Clicca [QUI]([https://amzn.eu/d/6ASoJPH](https://amzn.eu/d/8D8n99o)) per anteprima o acquisto.
+
+This book is a comprehensive guide to the Streamlit open-source Python library and simplifying the process of creating web applications. 
+Through hands-on guidance and realistic examples, you'll progress from crafting simple to sophisticated web applications from scratch. 
+This book covers everything from understanding Streamlit's central principles, modules, basic features, and widgets to advanced skills 
+such as dealing with databases, hashes, sessions, and multipages.
+Starting with fundamental concepts like operation systems virtualization, IDEs, development environments, widgets, scripting, and the anatomy 
+of web apps, the initial chapters set the groundwork. You'll then apply this knowledge to develop some real web apps, gradually advancing to 
+more complex apps, incorporating features like natural language processing (NLP), computer vision, dashboards with interactive charts, 
+file uploading, and much more. The book concludes by delving into the implementation of advanced skills and deployment techniques.
+By the end of this book, you'll have transformed into a proficient developer, equipped with advanced skills for handling databases, 
+implementing secure login processes, managing session states, creating multipage applications, and seamlessly deploying them on the cloud.
+
+---
+layout: page
+title: Books
+---
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
