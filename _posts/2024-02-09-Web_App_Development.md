@@ -5,9 +5,14 @@ published: true
 
 ![Robocrazia]({{site.baseurl}}/img/web_development.jpg)
 
+---
+
 Il manuale definitivo (in inglese) per **Streamlit** è da oggi disponibile su Amazon!
 
 Clicca [QUI](https://amzn.eu/d/6rSufF6) per anteprima o acquisto.
+
+---
+
 
 **Packt** Editore, di seguito i contenuti:
 
