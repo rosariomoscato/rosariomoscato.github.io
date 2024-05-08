@@ -18,10 +18,7 @@ file uploading, and much more. The book concludes by delving into the implementa
 By the end of this book, you'll have transformed into a proficient developer, equipped with advanced skills for handling databases, 
 implementing secure login processes, managing session states, creating multipage applications, and seamlessly deploying them on the cloud.
 
----
-layout: page
-title: Books
----
+
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
