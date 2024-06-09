@@ -16,8 +16,7 @@ Attualmente ricopre il ruolo di **CTO** presso Live Tech, una delle società di 
 ### Contatti:
 - [linkedin](https://www.linkedin.com/in/rosariomoscato/ "linkedin")
 - [github](https://github.com/rosariomoscato "github")
-- [udemy](https://www.udemy.com/user/rosario-moscato/)
 - [email](mailto:rosario.moscato@outlook.com "email")
 
 ### My Bio and CV [in English]
-- [Digital CV](https://rosariomoscatocv.streamlit.app/)
+- [Digital CV](https://rosariomoscato.streamlit.app/)
