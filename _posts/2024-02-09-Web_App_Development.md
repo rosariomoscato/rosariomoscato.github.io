@@ -1,5 +1,5 @@
 ---
-title: Web App Development Made Simple with Streamlit (Tech)
+title: Web App Development Made Simple with Streamlit (Libro/Manuale)
 published: true
 ---
 
