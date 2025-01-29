@@ -5,7 +5,7 @@ title: Pictures
 Papa Francesco
 ![Papa Francesco]({{site.baseurl}}/img/pics/Papa-Francesco.jpg)
 
-Camera Deputati) - 2024
+Camera Deputati - 2024
 ![CameraDeputati]({{site.baseurl}}/img/pics/cameradep.jpg)
 
 Agorà (Rai3) - 2024
