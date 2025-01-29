@@ -15,7 +15,7 @@ Natural Language processing is an extremely complex field of the Artificial Inte
 **Università Europea di Roma**, **Universidad Francisco de Vitoria** and **Anahuac Online** in collaboration with **Google** are proposing one of the best introductory courses to the wonderful world of **Natural Language Processing**.
 
 ![NLP Foundations]({{site.baseurl}}/img/Introduction_NLP.png)
-## NLP Foundations
+## NLP Foundations (DISMISSED)
 
 **Preview or Purchase** on [Udemy](https://www.udemy.com/course/nlp-foundations/?referralCode=6489F8EB533372D259F6)
 
@@ -42,7 +42,7 @@ At the end of the videos and hands-on parts you will be ready to continue by you
 
 ![NLP Foundations]({{site.baseurl}}/img/NLPFoundations.png)
 
-## Web Applications from Scratch with Streamlit
+## Web Applications from Scratch with Streamlit (DISMISSED)
 
 **Preview or Purchase** on [Udemy](https://www.udemy.com/course/web-app-from-scratch-with-streamlit/?referralCode=43AEE09132D5280DB57A)
 
@@ -64,7 +64,7 @@ As Second BONUS Lesson a COURSE about Python Coding Environment Setup.
 
 ![Web Applications from Scratch with Streamlit]({{site.baseurl}}/img/webapp.jpg)
 
-## Prototyping with GRADIO
+## Prototyping with GRADIO (DISMISSED)
 
 **Preview or Purchase** on [Udemy](https://www.udemy.com/course/prototyping-with-gradio/?referralCode=F7A951C3B9324D8D9)
 
@@ -87,7 +87,7 @@ No installations required at all on your machine, we are doing everything online
 ![Prototyping with Gradio]({{site.baseurl}}/img/gradio.jpg)
 
 
-## PyGame from Scratch
+## PyGame from Scratch (DISMISSED)
 
 **Preview or Purchase** on [Udemy](https://www.udemy.com/course/pygame-from-scratch/?referralCode=8BEC1785E2DEA1924D27)
 
