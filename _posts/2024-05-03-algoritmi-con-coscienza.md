@@ -1,9 +1,9 @@
 ---
-title: Introduzione all'Intelligenza Artificiale (Evento)
+title: Algoritmi con Coscienza (Evento)
 published: true
 ---
 
-### Conferenza dal titolo "Introduzione all'Intelligenza Artificiale"
-#### evento organizzato dal **Master in Scienza e Fede** dell'**Ateneo Pontificio Regina Apostolorum**
+### Convegno dal titolo ""ALGORITMI CON COSCIENZA: COSTRUIRE UN FUTURO ETICO NELL' INTELLIGENZA ARTIFICIALE"
+#### evento organizzato dall'**Ateneo Pontificio Regina Apostolorum** e da **Dire Donna Oggi**
 
 ![Introduzione AI]({{site.baseurl}}/img/Moscato24.jpg)
