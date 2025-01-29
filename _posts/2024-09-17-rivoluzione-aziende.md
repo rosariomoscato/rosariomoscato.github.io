@@ -1,5 +1,5 @@
 ---
-title: Intelligenza Artificiale: una rivoluzione per le aziende (Evento)
+title: Intelligenza Artificiale - Una Rivoluzione per le Aziende (Evento)
 published: true
 ---
 
