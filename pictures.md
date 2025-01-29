@@ -6,7 +6,7 @@ Papa Francesco
 ![Papa Francesco]({{site.baseurl}}/img/pics/Papa-Francesco.jpg)
 
 Camera Deputati) - 2024
-![CameraDeputati]({{site.baseurl}}/img/cameradep.jpg)
+![CameraDeputati]({{site.baseurl}}/img/pics/cameradep.jpg)
 
 Agorà (Rai3) - 2024
 ![Rai3]({{site.baseurl}}/img/agora2401.PNG)
