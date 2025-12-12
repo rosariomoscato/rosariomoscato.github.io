@@ -5,6 +5,9 @@ title: Pictures
 Papa Francesco - Roboethics (2019)
 ![Papa Francesco]({{site.baseurl}}/img/pics/Papa-Francesco.jpg)
 
+TEDxNTUA - 2025
+![TEDxNTUA]({{site.baseurl}}/img/tedxntua2025foto.jpg)
+
 Camera Deputati - 2024
 ![CameraDeputati]({{site.baseurl}}/img/pics/cameradep.jpg)
 
