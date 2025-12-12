@@ -20,6 +20,9 @@ Prof. Carrara
 Lezione in aula
 ![Lezione in aula]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.19.jpeg)
 
+Università Suor Orsola Benincasa - Prof. Francesco Virnicchi
+![Lezione in aula]({{site.baseurl}}/img/SOCop.jpeg)
+
 Corso AI online - 2019
 ![Corso AI online - 2019]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.22.jpeg)
 
