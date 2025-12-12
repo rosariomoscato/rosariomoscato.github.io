@@ -2,7 +2,7 @@
 layout: page
 title: Pictures
 ---
-Papa Francesco
+Papa Francesco - Roboethics (2019)
 ![Papa Francesco]({{site.baseurl}}/img/pics/Papa-Francesco.jpg)
 
 Camera Deputati - 2024
@@ -14,13 +14,13 @@ Agorà (Rai3) - 2024
 Conferenza AI - 2019 - Ateneo Pontificio Regina Apostolorum
 ![APRA]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.231.jpeg)
 
-Prof. Carrara
+Prof. Carrara (2019)
 ![Prof. Carrara]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.202.jpeg)
 
-Lezione in aula
+Lezione in aula (2019)
 ![Lezione in aula]({{site.baseurl}}/img/pics/WhatsApp-Image-2019-11-30-at-08.59.19.jpeg)
 
-Università Suor Orsola Benincasa - Prof. Francesco Virnicchi
+Università Suor Orsola Benincasa - Prof. Francesco Virnicchi (2025)
 ![Lezione in aula]({{site.baseurl}}/img/SOCop.jpg)
 
 Corso AI online - 2019
