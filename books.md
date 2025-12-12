@@ -19,6 +19,16 @@ By the end of this book, you'll have transformed into a proficient developer, eq
 implementing secure login processes, managing session states, creating multipage applications, and seamlessly deploying them on the cloud.
 
 ---
+## Mastering ChatGPT and Google Colab for Machine Learning: Automate AI Workflows and Fast-Track Your Machine Learning Tasks with the Power of ChatGPT, Google Colab, and Python
+![Mastering ChatGPT]({{site.baseurl}}/img/GPT.jpeg)
+
+Clicca [QUI](https://amzn.eu/d/caZAwSw) per anteprima o acquisto.
+
+Unlock the future of machine learning by mastering Google Colab, trusted by over 5 million data scientists, and ChatGPT, powering 100 million users worldwide. This book bridges the latest in AI with practical, hands-on applications for data science.
+With these game-changing tools at your command, you’ll be able to streamline complex workflows, automate tedious tasks, and propel your AI skills to new heights—making machine learning faster, smarter, and more accessible than ever before.
+Each chapter unfolds a specific aspect of data science and machine learning, seamlessly integrated with ChatGPT’s free version capabilities. The foundational chapters introduce key machine learning concepts, while advanced sections explore topics such as natural language processing, sentiment analysis, and predictive analytics—all illustrated with real-world examples and interactive exercises.
+
+---
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
 ![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
