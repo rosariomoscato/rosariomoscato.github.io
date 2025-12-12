@@ -40,7 +40,7 @@ By the time you complete this book, you will possess the technical proficiency t
 
 ---
 ## POST-UMANI E NUOVI DEI: Piccola guida al possibile futuro che ci aspetta
-![Post Umani o Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
+![Post Umani e Nuovi Dei]({{site.baseurl}}/img/Nuovi_Umani_Copertina.jpg)
 
 Clicca [QUI](https://amzn.eu/d/6ASoJPH) per anteprima o acquisto.
 
