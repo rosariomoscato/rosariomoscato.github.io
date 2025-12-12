@@ -3,9 +3,9 @@ layout: page
 title: Books
 ---
 ## Web App Development Made Simple with Streamlit: A web developer's guide to effortless web app development, deployment, and scalability
-![Post Umani o Nuovi Dei]({{site.baseurl}}/img/web_development.jpg)
+![Web App Development]({{site.baseurl}}/img/web_development.jpg)
 
-Clicca [QUI]([https://amzn.eu/d/6ASoJPH](https://amzn.eu/d/8D8n99o)) per anteprima o acquisto.
+Clicca [QUI](https://amzn.eu/d/esTYRBv) per anteprima o acquisto.
 
 This book is a comprehensive guide to the Streamlit open-source Python library and simplifying the process of creating web applications. 
 Through hands-on guidance and realistic examples, you'll progress from crafting simple to sophisticated web applications from scratch. 
