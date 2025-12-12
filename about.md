@@ -12,7 +12,7 @@ Negli ultimi anni il suo interesse si è esclusivamente concentrato sull’**Int
 Autore di alcuni libri (**Web App Development made simple with Streamlit**, **Mastering ChatGPT and Google Colab for Machine Learning**, **Natural Language Processing Cookbook**, **Post-Umani e Nuovi
 Dei** e **Robocrazia**) è relatore, anche su invito, presso centri di ricerca e conferenze internazionali, formatore e consulente tecnico/scientifico riguardo l’enorme e mutevole mondo della AI.
 
-Attualmente ricopre il ruolo di **CTO** e **CAIO** presso Live Tech, una delle società di AI da più tempo attive in Italia, e di coordinatore del **Gruppo di Neurobioetica e Intelligenza Artificiale** presso l'Ateneo Pontificio Regina Apostolorum, socio del **CDTI** di Roma. 
+Attualmente ricopre il ruolo di **CTO** presso Live Tech, una delle società di AI da più tempo attive in Italia, e di **CAIO** del Groppo DST, inoltre è coordinatore del **Gruppo di Neurobioetica e Intelligenza Artificiale** presso l'Ateneo Pontificio Regina Apostolorum, socio del **CDTI** di Roma. 
 
 ### Contatti:
 - [linkedin](https://www.linkedin.com/in/rosariomoscato/ "linkedin")
